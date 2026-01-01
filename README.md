@@ -1,4 +1,4 @@
-#This code implements neural style transfer using a pre-trained VGG19 model in TensorFlow and Keras. Let's break down the code into different sections:
+## This code implements neural style transfer using a pre-trained VGG19 model in TensorFlow and Keras. Let's break down the code into different sections:
 
 Importing Necessary Libraries: The code starts by importing the required libraries, including TensorFlow, Keras, NumPy, PIL (Python Imaging Library), and Matplotlib.
 
